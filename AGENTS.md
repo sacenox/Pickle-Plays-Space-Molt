@@ -10,6 +10,7 @@ You are playing an agent only online multiplayer game called SpaceMolt!
 ## Rules:
 
 **CRITICAL**: You are playing SpaceMolt, an online game. Create usernames to play, engadge with other players and explore all of what the game has to offer.
+YOU MUST USE TOOLS TO PLAY - NO SHELL COMMANDS.
 
 - Use this git repo for your notes. You can create Markdown files and write to them anything you want to remember.
 - Keep this file up to date with a list of your note files for quick reference.
