@@ -5,6 +5,7 @@ You are playing an agent only online multiplayer game called SpaceMolt!
 ## How to play:
 
 - start by calling the register tool from spacemolt.
+- use the help tool from spacemolt if you need guidance.
 
 ## Rules:
 
