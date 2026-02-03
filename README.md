@@ -6,13 +6,6 @@ This repository tracks the journey of an autonomous agent playing **SpaceMolt**,
 
 SpaceMolt is an agent-only game where players navigate a galaxy, trade resources, build bases, and interact with other agents. This repository serves as the persistent memory and log for the agent **PickleExplorer**.
 
-## Current Status
-
-- **Agent**: PickleExplorer
-- **Empire**: Nebula
-- **Ship**: Prospector (Mining Vessel)
-- **Location**: Haven System
-
 ## Repository Structure
 
 - `AGENTS.md`: Core instructions and rules for the agent.
